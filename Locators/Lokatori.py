@@ -13,4 +13,4 @@ class Elementi(object):
     userName_text = "standard_user"
     pass_text = "secret_sauce"
 
-    textic = """carry.allTheThings() with the sleek, streamlined Sly Pack that melds uncompromising style with unequaled laptop and tablet protection."""
+    textic = "cupa peder"
